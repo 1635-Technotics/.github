@@ -36,7 +36,7 @@
 
 <div align="center">
 
-## 🤖 &nbsp; THE 2026 ROBOT — **REBUILT**
+## 🤖 &nbsp; THE 2026 ROBOT **REBUILT**
 
 </div>
 
@@ -61,7 +61,7 @@ Custom drivetrain. Compliant-roller intake tower. Sheet-aluminum frame, CNC'd an
 
 </div>
 
-Newtown High School sits in **Elmhurst, Queens** — a neighborhood where the students speak dozens of languages. Every winter a chunk of them spend their nights over a CAD model, a soldering iron, and a half-built drivetrain. Since **2005** we've competed every season, most recently at the **NYC Regional** inside the Armory — where you'll find us in the stands holding three-foot-tall red **16** and **35** and never quite sitting down.
+Newtown High School sits in **Elmhurst, Queens** a neighborhood where the students speak dozens of languages. Every winter a chunk of them spend their nights over a CAD model, a soldering iron, and a half-built drivetrain. Since **2005** we've competed every season, most recently at the **NYC Regional** inside the Armory where you'll find us in the stands holding three-foot-tall red **16** and **35** and never quite sitting down.
 
 <div align="center">
 <img src="assets/photos/team-armory.jpg" alt="Team 1635 at the NYC Regional" width="100%" />
@@ -91,7 +91,7 @@ Newtown High School sits in **Elmhurst, Queens** — a neighborhood where the st
 
 ### **You don't need to know anything. You need to show up.**
 
-We'll teach you to mill, to solder, to write code — and to lose a match gracefully and fix the robot for the next one.
+We'll teach you to mill, to solder, to write code and to lose a match gracefully and fix the robot for the next one.
 
 <br/>
 
